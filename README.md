@@ -28,9 +28,13 @@ json example in http://localhost:3000/api/data :
 
 DB with turso [turso db sqlite](https://turso.tech/)
 
+> [!WARNING]
+> install Cli turso first follow of steps
+>
+
 Steps for conection read:
-1. [prisma documentation](https://www.prisma.io/docs/orm/overview/databases/turso)
-2. [turso](https://docs.turso.tech/sdk/ts/orm/prisma)
+1. [turso](https://docs.turso.tech/sdk/ts/orm/prisma)
+2. [prisma documentation](https://www.prisma.io/docs/orm/overview/databases/turso)
 
 Or 
 

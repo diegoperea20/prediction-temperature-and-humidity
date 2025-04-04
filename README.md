@@ -1,4 +1,4 @@
-# Prediction Temperature and Humidity
+# Prediction Temperature and Humidity Only API Data
 
 Prediction Temperature and Humidity 
 "next": "13.4.12"  "react": "18.2.0"

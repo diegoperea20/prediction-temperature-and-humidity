@@ -14,8 +14,6 @@ Create `.env` file:
 
 ```bash
 DATABASE_URL=
-NEXTAUTH_SECRET=
-NEXTAUTH_URL=http://localhost:3000
 ```
 
 First

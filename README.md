@@ -9,8 +9,6 @@ Create .env file:
 #DATABASE_URL="file:./dev.db" #only use once
 TURSO_DATABASE_URL=
 TURSO_AUTH_TOKEN=
-NEXTAUTH_SECRET=
-NEXTAUTH_URL=http://localhost:3000
 ```
 
 json example in http://localhost:3000/api/data :
